@@ -1,0 +1,125 @@
+.container {
+    width: 960px;
+    margin: 0% auto;
+}   
+
+
+    .button,
+    button,
+    input[type="submit"],
+    input[type="reset"],
+    input[type="button"] {
+      display: inline-block;
+      height: 38px;
+      padding: 0 30px;
+      color: #555;
+      text-align: center;
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 38px;
+      letter-spacing: .1rem;
+      text-transform: uppercase;
+      text-decoration: none;
+      white-space: nowrap;
+      background-color: transparent;
+      border-radius: 4px;
+      border: 1px solid #bbb;
+      cursor: pointer;
+      box-sizing: border-box; }
+    .button:hover,
+    button:hover,
+    input[type="submit"]:hover,
+    input[type="reset"]:hover,
+    input[type="button"]:hover,
+    .button:focus,
+    button:focus,
+    input[type="submit"]:focus,
+    input[type="reset"]:focus,
+    input[type="button"]:focus {
+      color: #333;
+      border-color: #888;
+      outline: 0; }
+
+
+.inlineList li {
+    display: inline;
+    margin-left: 20px;
+}
+
+#nav-section {
+    background: #ebebeb;;
+    text-align: center;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    color:#777;
+    background:#777;
+    width:'960px';
+    font-size:'18px';
+}
+
+header {
+    background:#ebebeb;
+    text-align: center;
+}
+
+footer {
+    background:#ebebeb;
+    text-align: center;
+    clear: both;
+    padding: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #777777;
+  }
+  
+  .boxL {
+    background-color: #f1f1f1;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    float: left;
+  }
+
+  .boxR {
+    background-color: #f1f1f1;
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    float: right;
+  }
+
+
+
+/* #right-section,
+#left-section {
+    background:#ebebeb;
+    width: 495px;
+    height: 400px;
+    max-width: 50%;
+    float: left;
+    text-align: center;
+} */
+
+
+
+
+.article {
+    color:'ebebeb';
+    background: color #777777;;
+
+}
+
+h1,
+p {
+    color:'#777';
+    background:#ebebeb;
+}
