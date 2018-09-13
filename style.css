@@ -36,10 +36,7 @@ header {
     background: #777777;
     width: 96%;
     height: 70%;
-    margin-left: 10px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    margin-top: 10px;
+    margin: 10px 5px 5px 10px;
 }
 
 #aside {
