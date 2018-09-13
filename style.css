@@ -54,7 +54,6 @@ header {
     color: #777;
     font-weight:bold;
     background: #ebebeb;
-    /* width: 85%; */
     margin: 10px 20px 5px 20px;
     padding: 25px;
 }
@@ -62,7 +61,6 @@ header {
 #p {
     color: #777;
     background: #ebebeb;
-    /* width: 85%; */
     margin: 0px 20px 0px 20px;
     padding: 25px;
 }
