@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: #777;
     background: #777;
     width: 960px;
@@ -36,10 +36,7 @@ header {
     background: #777777;
     width: 96%;
     height: 70%;
-    margin-left: 10px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    margin-top: 10px;
+    margin: 33px 5px 5px 10px;
 }
 
 #aside {
@@ -54,7 +51,6 @@ header {
     color: #777;
     font-weight:bold;
     background: #ebebeb;
-    /* width: 85%; */
     margin: 10px 20px 5px 20px;
     padding: 25px;
 }
@@ -62,7 +58,6 @@ header {
 #p {
     color: #777;
     background: #ebebeb;
-    /* width: 85%; */
     margin: 0px 20px 0px 20px;
     padding: 25px;
 }
