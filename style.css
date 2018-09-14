@@ -23,6 +23,15 @@ header {
     width: 910px;
 }
 
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
 #section {
     background: #ebebeb;
     height: 315px;
